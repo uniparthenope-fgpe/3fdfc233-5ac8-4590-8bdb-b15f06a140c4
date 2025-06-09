@@ -1,0 +1,1 @@
+Fix the provided function that is supposed to return the nth Fibonacci number, but currently has a bug.
